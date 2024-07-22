@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div style="display: flex; flex-direction: row">
+      <div style="display: flex; flex-direction: column">
+        <h1>video playing assignment</h1>
+        <video
+          width="600px"
+          height="400px"
+          controls
+          autoplay
+          src="c:\Users\Systems\Downloads\videoplayback.mp4"
+        ></video>
+      </div>
+
+      <div style="display: flex; flex-direction: column">
+        <h1>audio playing assignment</h1>
+        <audio
+          controls
+          src=""
+        ></audio>
+      </div>
+    </div>
+  </body>
+</html>

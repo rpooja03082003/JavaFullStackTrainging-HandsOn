@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Question paper</title>
+    <style>
+      a {
+        color: black;
+      }
+    </style>
+  </head>
+  <body>
+    <center>
+      <div>
+        <h3><a href="">MODEL QUESTION PAPER FOR SUMMATIVE TEST -II</a></h3>
+        <h3><a href="">MATHEMATICS</a></h3>
+        <h3><a href="">CLASS-VIII</a></h3>
+      </div>
+    </center>
+    <p>Maximum Marks: 20</p>
+
+    <h4>General instruction:</h4>
+    <ol>
+      <li>All questions are compulsory</li>
+      <li>
+        The question paper consist of 7 question divided in to 2 section A and B
+      </li>
+      <li>Secton A contains 4 question of 2 marks each</li>
+      <li>Section B contains 3 question 4 mark each</li>
+    </ol>
+    <center>
+      <h3>SECTION A</h3>
+    </center>
+
+    <p>
+      Q1-What will be the product of
+      (a<sup>2</sup>)x(2a<sup>22</sup>)x(4a<sup>26</sup>)
+    </p>
+    <ul type="none">
+      <li>(a) 8a <sup>46</sup></li>
+      <li>(b) 8a <sup>48</sup></li>
+      <li>(c) 6a <sup>50</sup></li>
+      <li>(d) 8a <sup>50</sup></li>
+    </ul>
+    <br />
+
+    <p>Q2-What is oxidesed to oxygen by</p>
+    <ul type="none">
+      <li>(a) H<sub>2</sub>O<sub>2</sub></li>
+      <li>(b) KMnO <sub>4</sub></li>
+      <li>(c) CIO <sub>2</sub></li>
+      <li>(d) Flurine</li>
+    </ul>
+    <br />
+    <center>
+      <p><del>Cutting is Not Allowed</del> Select Only one Option</p>
+    </center>
+  </body>
+</html>

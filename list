@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+       <h2><centre><b><u>List of courses</b></u></centre>
+    <h2>Certificate Courses</h2>
+    <ul type="square">
+      <li>CCA</li>
+      <li>DTP</li>
+      <li>TALLY</li>
+    </ul>
+
+    <h2>NIELIT Courses</h2>
+    <ol type="I">
+      <li>CCC</li>
+      <li>O Level</li>
+      <li>A level</li>
+    </ol>
+
+    <h2>Diploma Courses</h2>
+    <ol type="A">
+      <li>DCA</li>
+      <li>ADCA</li>
+      <li>ADCA</li>
+      <li>DDNT</li>
+    </ol>
+
+    <h2>Programming Courses</h2>
+    <ol start="11">
+      <li>PYTHON</li>
+      <li>Java</li>
+      <li>C Programming</li>
+      <li>C++</li>
+      <li>Data Structure Using C</li>
+    </ol>
+  </body>
+</html>
